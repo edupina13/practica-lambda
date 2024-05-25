@@ -40,6 +40,7 @@ def lambda_handler(event, context):
             "grado": "9",
             "grupo": "B",
             "edad": "40",
+            "estado": "Morelos",
             # "location": ip.text.replace("\n", "")
         }),
     }
