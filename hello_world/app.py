@@ -39,7 +39,7 @@ def lambda_handler(event, context):
             "nombre_completo": "Carlos Eduardo Lopez Pina",
             "grado": "9",
             "grupo": "B",
-            "edad": "39",
+            "edad": "40",
             "estado": "Nuevo Leon",
             # "location": ip.text.replace("\n", "")
         }),
